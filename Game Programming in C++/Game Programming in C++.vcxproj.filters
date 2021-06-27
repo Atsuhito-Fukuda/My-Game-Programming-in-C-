@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{39bcbae0-31af-463f-a487-7bd8ca38f870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{98c3823b-30ee-4425-8772-49e34f7e7002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{dde51c63-dfc5-4bca-905f-1c61b3f200c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{491d3a73-c649-4135-bc17-1846f8ea56b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{cff89819-9af2-453a-acc0-ab7770f150b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Data">
+      <UniqueIdentifier>{c20db35b-4294-47b6-bffb-ca21b854e790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Librarian">
+      <UniqueIdentifier>{1dcd6bd9-8396-4151-90e3-981ef197e4cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Camera">
+      <UniqueIdentifier>{a7f84883-2e05-4c1a-b4d8-8886e8245c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools\BinaryTree">
+      <UniqueIdentifier>{a27436f6-d9de-4559-b435-f4dff3d3e219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Action">
+      <UniqueIdentifier>{310e961a-d0aa-49bc-bdfe-87d6945fcd05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Tools\IDmap">
+      <UniqueIdentifier>{7a35fc9e-a05a-493a-94f0-239aa7a0cc86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\GameScript">
+      <UniqueIdentifier>{20d89ca3-efba-44e1-9297-471fad5aecc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gpu">
+      <UniqueIdentifier>{fd043020-e226-433d-9c97-594b80ec8986}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScript.cpp">
+      <Filter>Game\GameScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Object\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="IDmap.cpp">
+      <Filter>Tools\IDmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>Tools\BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Gpu.cpp">
+      <Filter>Gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="Action.cpp">
+      <Filter>Action</Filter>
+    </ClCompile>
+    <ClCompile Include="Creations.cpp">
+      <Filter>Object\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>Librarian</Filter>
+    </ClCompile>
+    <ClCompile Include="Manipulations.cpp">
+      <Filter>Object\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="testScript.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="LookingGlass.cpp">
+      <Filter>Librarian</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ARRAY.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScript.h">
+      <Filter>Game\GameScript</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Object\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="IDmap.h">
+      <Filter>Tools\IDmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>Tools\BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Gpu.h">
+      <Filter>Gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="Action.h">
+      <Filter>Action</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="testScript.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Librarian</Filter>
+    </ClInclude>
+    <ClInclude Include="LookingGlass.h">
+      <Filter>Librarian</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectCore.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader\Phong.vert">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\Phong.frag">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

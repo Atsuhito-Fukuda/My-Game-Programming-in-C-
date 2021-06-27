@@ -1,0 +1,16 @@
+{
+	"version":1,
+	"name":"invisible",
+
+	"shader":["", ""],
+	"textures": "plane.png",
+	"specularpower":100.0,
+	"vertsdatatype":"Vertsdata",
+	"vertexfilename":"vertex.gpmesh",
+	"vertindexfilename":"vertindex.gpmesh",
+
+	"collision":"sphere",
+	"collision value": [0.0, 0.0],
+
+	"manipulate":"null"
+}

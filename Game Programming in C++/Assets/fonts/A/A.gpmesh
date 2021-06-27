@@ -1,0 +1,17 @@
+{
+	"version":1,
+	"name":"A",
+
+	"shader":["",""],
+	"textures": "arial/A_w.png",
+	"specularpower":100.0,
+	"vertsdatatype":"Vertsdata",
+	"vertexfilename":"../vertex.gpmesh",
+	"vertindexfilename":"../vertindex.gpmesh",
+
+	"collision":"sphere",
+	"collision" : [0.0,0.0]
+
+	"manipulate":"null"
+
+}

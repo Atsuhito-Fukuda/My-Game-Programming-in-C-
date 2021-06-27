@@ -1,0 +1,17 @@
+{
+	"version":1,
+	"name":"Cube",
+
+	"shader":["", ""],
+	"textures":"Cube.png",
+	"specularpower":100.0,
+	"vertsdatatype":"Vertsdata",
+	"vertexfilename":"vertex.gpmesh",
+	"vertindexfilename":"vertindex.gpmesh",
+
+	"collision":"sphere",
+	"collision value": [0.0, 0.0],
+
+	"manipulate": "test1"
+
+}

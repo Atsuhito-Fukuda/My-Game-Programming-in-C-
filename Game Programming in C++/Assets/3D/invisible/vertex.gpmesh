@@ -1,0 +1,8 @@
+{
+	"DataType":"JSONVertex",
+	"vertexformat":"PosNormTex",
+	"rownum":8,
+	"vertices":[ 
+		[0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0]
+	]
+}

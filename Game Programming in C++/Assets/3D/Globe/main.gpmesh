@@ -1,0 +1,17 @@
+{
+	"version":1,
+	"name":"Sphere",
+
+	"shader":["", ""],
+	"textures":"earth.png",
+	"specularpower":100.0,
+	"vertsdatatype":"Create",
+	"createname" : "Sphere",
+	"createtype" : "null",
+
+	"collision":"sphere",
+	"collision value": [0.0, 0.0],
+
+	"manipulate": "test_globerotate"
+	
+}
