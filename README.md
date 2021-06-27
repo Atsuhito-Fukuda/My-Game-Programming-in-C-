@@ -1,10 +1,11 @@
-## My-Game-Programming-in-C-
+## My Game Programming in C++
 
 ・マルチメディアライブラリSDLを用いてWindows上で動作するアプリ。
 
 ・サウンド用ライブラリFMOD、グラフィックライブラリOpenGLを用いており、  
 ・上記の他には、ファイル記述を扱うRapid JSONライブラリ、std::vector等のC++の標準的なライブラリを
-　用いているが、それ以外は自身でコーディングしている。
+　用いているが、  
+ 　それ以外は自身でコーディングしている。
 
 ・サウンドをnamespace audioが、  
 　グラフィックをnamespace gpuが、  
