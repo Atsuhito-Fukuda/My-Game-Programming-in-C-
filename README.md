@@ -1,10 +1,10 @@
 ## My Game Programming in C++
 
-・マルチメディアライブラリSDLを用いてWindows上で動作するアプリ。
+・マルチメディアライブラリSDLを用いてWindows上で動作するアプリです。
 
 ・また、サウンド用ライブラリFMOD、グラフィックライブラリOpenGLを用いており、  
 ・上記の他には、ファイル記述を扱うRapid JSONライブラリ、std::vector等のC++の標準的なライブラリを  
-　用いているが、それ以外は自身でコーディングしている。
+　用いているが、それ以外は自身でコーディングしています。
  
 ・サウンドをnamespace audioが、  
 　グラフィックをnamespace gpuが、  
@@ -18,17 +18,17 @@
 　エラー処理をnamespace librarian::errorが、  
 　担当しており、  
 　その他、コンテナ、バイナリツリー、ベクトル・行列を提供する自作クラスの  
-　ARRAY、IDmap、BinaryTree、Vector(、Tools)がある。  
+　ARRAY、IDmap、BinaryTree、Vector(、Tools)があります。  
 
 ・現段階では単純な内容を扱う。
 
-・より詳しい紹介は各実装ファイルに。  
+・より詳しい紹介は各実装ファイルに書いてあります。  
 
 ・Coding技術紹介資料_メンバとアクセス制御.pdfのデモンストレーション用に。
 
 ## コンパイル (Visual Studio)
 
-SDL2, glew2, Simple OpenGL Image Library, RapidJSON, FMOD SoundSystem(Studio, Core)のヘッダ・ライブラリが必要。
+SDL2, glew2, Simple OpenGL Image Library, RapidJSON, FMOD SoundSystem(Studio, Core)のヘッダ・ライブラリが必要となります。
 
 (SDL2.lib, SDL2main.lib, SDL2_ttf.lib, SDL2_mixer.lib, SDL2_image.lib, glew32.lib, opengl32.lib, SOIL.lib, fmodstudioL_vc.lib, fmodL_vc.lib, 
 
