@@ -38,3 +38,9 @@ SDL2.dll, SDL2_image.dll, libpng16-16.dll, glew32.dll, fmodL.dll, fmodstudioL.dl
 
 ## 借用
 
+/Assets/3D内のCube.png、earth.pngと/Assets/Audio内のファイルは
+
+https://github.com/gameprogcpp/code  
+https://visibleearth.nasa.gov/images/73826/october-blue-marble-next-generation-w-topography-and-bathymetry/73835l
+
+より拝借しています。
