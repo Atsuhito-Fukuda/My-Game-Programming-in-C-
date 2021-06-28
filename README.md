@@ -24,5 +24,17 @@
 
 ・より詳しい紹介は各実装ファイルに。  
 
-
 ・Coding技術紹介資料_メンバとアクセス制御.pdfのデモンストレーション用に。
+
+## コンパイル (Visual Studio)
+
+SDL2, glew2, Simple OpenGL Image Library, RapidJSON, FMOD SoundSystem(Studio, Core)のヘッダ・ライブラリが必要。
+
+(SDL2.lib, SDL2main.lib, SDL2_ttf.lib, SDL2_mixer.lib, SDL2_image.lib, glew32.lib, opengl32.lib, SOIL.lib, fmodstudioL_vc.lib, fmodL_vc.lib, 
+
+SDL2.dll, SDL2_image.dll, libpng16-16.dll, glew32.dll, fmodL.dll, fmodstudioL.dll, zlib1.dll)
+
+.slnファイルを開いてコンパイルしてください。
+
+## 借用
+
